@@ -13,7 +13,7 @@ table {
   border-collapse: collapse;
   position: absolute;
   left: 50%;
-  margin-left: -155px; /* If we don't do this the edge is in the center */
+  margin-left: -155px; /* If we don't do this the first block comes in the center */
   top: 50px;
 }
 
