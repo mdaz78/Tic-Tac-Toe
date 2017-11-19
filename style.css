@@ -1,3 +1,35 @@
+body {
+  font-size: 30px;
+  font-family: "Comic Sans MS", cursive;
+}
+
+input[type="radio"] {
+  margin-top: -1px;
+  vertical-align: middle;
+  margin-right: 7px;
+}
+
+#choice {
+  text-align: center;
+}
+
+#choice p {
+  text-decoration: underline;
+}
+
+#board {
+  display: none;
+}
+
+#play-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4%;
+  padding: 3px 15px;
+  cursor: pointer;
+}
+
 td {
   border: 2px solid #333;
   height: 100px;
