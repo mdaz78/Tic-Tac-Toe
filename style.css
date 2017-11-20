@@ -21,10 +21,6 @@ input[type="radio"] {
   display: none;
 }
 
-#replay {
-  display: none;
-}
-
 #play-button {
   display: block;
   margin-left: auto;
@@ -85,3 +81,10 @@ table tr td:last-child {
   font-size: 2em;
 }
 
+
+#replay {
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 400px;
+}
